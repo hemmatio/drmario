@@ -4,7 +4,7 @@ A MIPS assembly remake of Nintendo’s classic **Dr. Mario** puzzle game. Pills 
 
 ---
 
-This game **must be run using the [Saturn MIPS emulator]([https://github.com/uchicago-cs/saturn](https://github.com/1whatleytay/saturn)**.
+This game **must be run using the [Saturn MIPS emulator](https://github.com/1whatleytay/saturn)**.
 
 ---
 
